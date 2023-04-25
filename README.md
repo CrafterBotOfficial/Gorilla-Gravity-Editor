@@ -11,8 +11,9 @@ To use the mod, go to a [modded lobby](https://github.com/legoandmars/Utilla#ena
 ## Dependencies
 
 * [Utilla](https://github.com/legoandmars/Utilla) by [see contributors](https://github.com/legoandmars/Utilla/graphs/contributors)
-* [Computer Interface](https://github.com/ToniMacaroni/ComputerInterface) by [see contributors](https://github.com/ToniMacaroni/ComputerInterface/graphs/contributors)
-* [Bepinject](https://github.com/Auros/Bepinject/releases/tag/1.0.0) by [Auros](https://github.com/Auros)
+* [MonkeStatistics](https://github.com/CrafterBotOfficial/MonkeStatistics/releases)
+--* [Computer Interface](https://github.com/ToniMacaroni/ComputerInterface) by [see contributors](https://github.com/ToniMacaroni/ComputerInterface/graphs/contributors)
+* [Bepinject](https://github.com/Auros/Bepinject/releases/tag/1.0.0) by [Auros](https://github.com/Auros)--
 
 ### Legal Notice
 * Idea by Basic Bee#8844.
