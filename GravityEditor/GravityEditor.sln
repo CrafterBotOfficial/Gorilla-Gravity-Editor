@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity Editor", "Gravity Editor\Gravity Editor.csproj", "{7B367A49-AC71-4AAE-93B1-9B7623A19596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityEditor", "GravityEditor\GravityEditor.csproj", "{9524C720-2E76-4A22-A90B-24D39B8DEE7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B367A49-AC71-4AAE-93B1-9B7623A19596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B367A49-AC71-4AAE-93B1-9B7623A19596}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B367A49-AC71-4AAE-93B1-9B7623A19596}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B367A49-AC71-4AAE-93B1-9B7623A19596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9524C720-2E76-4A22-A90B-24D39B8DEE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9524C720-2E76-4A22-A90B-24D39B8DEE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9524C720-2E76-4A22-A90B-24D39B8DEE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9524C720-2E76-4A22-A90B-24D39B8DEE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B66C85A9-272E-48E8-B5FA-4005E46B2C28}
+		SolutionGuid = {3B63906E-D422-4B00-9924-7EE4FDC72979}
 	EndGlobalSection
 EndGlobal
